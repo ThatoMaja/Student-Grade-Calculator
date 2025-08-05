@@ -25,7 +25,7 @@ The following assessment components contribute to the final grade:
 
 ---
 
-## ⚙Key Features
+## Key Features
 
 - **CSV File Upload** – Import student grades with a single click
 - **Data Validation** – Detects missing columns or incomplete data
